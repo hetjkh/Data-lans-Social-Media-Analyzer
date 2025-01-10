@@ -59,7 +59,18 @@
    ```bash
    npm run dev
    ```
-4. Open your browser and say hello to awesome insights! 👋✨
+4.Add .env with these variables
+```
+   BASE_API_URL=""
+   LANGFLOW_ID=""
+   FLOW_ID=""
+   APPLICATION_TOKEN=""
+   DATA_API_CLIENt=""
+   DB_URL="'
+```
+
+
+5. Open your browser and say hello to awesome insights! 👋✨
 
 ---
 
